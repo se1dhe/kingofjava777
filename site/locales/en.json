@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Home",
+    "videos": "Videos",
+    "about": "About",
+    "social": "Social",
+    "live": "LIVE"
+  },
+  "hero": {
+    "live_now": "WATCH STREAM",
+    "offline": "Stream starting soon",
+    "subscribe": "Subscribe",
+    "viewers": "viewers"
+  },
+  "about": {
+    "title": "About KINGOFJAVA777",
+    "subtitle": "Lineage 2 Legend",
+    "description": "Stepan is a Lineage 2 streamer from Armenia. PvP, Olympiads, Raid Bosses, and the best content for the community. Join 142K+ fans!",
+    "stats": {
+      "youtube": "YouTube subscribers",
+      "telegram": "Telegram channel",
+      "tiktok": "TikTok followers",
+      "total": "Total followers"
+    }
+  },
+  "videos": {
+    "title": "Latest Videos",
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "watch_all": "Watch all",
+    "view_count": "views"
+  },
+  "social": {
+    "title": "Join Us",
+    "subtitle": "Follow streams and news",
+    "youtube": "YouTube Channel",
+    "telegram": "Telegram",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "kick": "Kick Streams",
+    "vk": "VKontakte"
+  },
+  "footer": {
+    "copyright": "© 2024 KINGOFJAVA777. All rights reserved.",
+    "made_with": "Made with",
+    "for_community": "for the community"
+  },
+  "ui": {
+    "language": "Language",
+    "loading": "Loading...",
+    "error": "Failed to load"
+  }
+}

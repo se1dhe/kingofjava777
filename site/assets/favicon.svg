@@ -1,0 +1,52 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#08090C"/>
+  
+  <!-- Crown (King) -->
+  <path d="M20 28L24 20L28 26L32 18L36 26L40 20L44 28V36H20V28Z" 
+        fill="#D4AF37" 
+        stroke="#E8C582" 
+        stroke-width="1.5"/>
+  
+  <!-- Crown jewels -->
+  <circle cx="24" cy="20" r="2" fill="#E8C582"/>
+  <circle cx="32" cy="18" r="2.5" fill="#E8C582"/>
+  <circle cx="40" cy="20" r="2" fill="#E8C582"/>
+  
+  <!-- Java cup -->
+  <rect x="26" y="38" width="12" height="10" rx="2" 
+        fill="#D4AF37" 
+        stroke="#E8C582" 
+        stroke-width="1"/>
+  
+  <!-- Steam -->
+  <path d="M28 36C28 34 29 33 30 33C31 33 32 34 32 36" 
+        stroke="#E8C582" 
+        stroke-width="1.5" 
+        stroke-linecap="round" 
+        opacity="0.6"/>
+  <path d="M32 36C32 34 33 33 34 33C35 33 36 34 36 36" 
+        stroke="#E8C582" 
+        stroke-width="1.5" 
+        stroke-linecap="round" 
+        opacity="0.6"/>
+  
+  <!-- 777 text -->
+  <text x="32" y="56" 
+        font-family="Russo One, sans-serif" 
+        font-size="10" 
+        font-weight="700" 
+        fill="#E8C582" 
+        text-anchor="middle" 
+        letter-spacing="1">777</text>
+  
+  <!-- Glow effect -->
+  <circle cx="32" cy="32" r="30" fill="url(#glow)" opacity="0.3"/>
+  
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

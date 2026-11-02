@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Գլխավոր",
+    "videos": "Տեսանյութներ",
+    "about": "Ստրիմերի մասին",
+    "social": "Սոցցընարանցներ",
+    "live": "ԵԹԵՐ"
+  },
+  "hero": {
+    "live_now": "ԴԻՏԵԼ ՀԵԿԸ",
+    "offline": "Ստրիմը շուտով կսկսվի",
+    "subscribe": "Բաժանորդվել",
+    "viewers": "դիտողներ"
+  },
+  "about": {
+    "title": "KINGOFJAVA777-ի մասին",
+    "subtitle": "Lineage 2-ի լեգենդ",
+    "description": "Ստեպանը Lineage 2-ի ստրիմեր է Հայաստանից: PvP, օլիմպիադներ, րեյդ բոսեր և լավագույն բովանդակություն համայնքի համար: Միացիր 142K+ երկրպագումներին!",
+    "stats": {
+      "youtube": "YouTube բաժանորդներ",
+      "telegram": "Telegram ալիք",
+      "tiktok": "TikTok հետևորդներ",
+      "total": "Ընդամենը հետևորդներ"
+    }
+  },
+  "videos": {
+    "title": "Վերջին տեսանյութներ",
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "watch_all": "Դիտել բոլորը",
+    "view_count": "դիտում"
+  },
+  "social": {
+    "title": "Միացիր",
+    "subtitle": "Հետևեք ստրիմներին և նորություններին",
+    "youtube": "YouTube ալիք",
+    "telegram": "Telegram",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "kick": "Kick ստրիմներ",
+    "vk": "VKontakte"
+  },
+  "footer": {
+    "copyright": "© 2024 KINGOFJAVA777. Բոլոր իրավունքները պաշտպանված են:",
+    "made_with": "Պատրաստված է",
+    "for_community": "համայնքի համար"
+  },
+  "ui": {
+    "language": "Լեզու",
+    "loading": "Բեռնվում է...",
+    "error": "Բեռնման սխալ"
+  }
+}

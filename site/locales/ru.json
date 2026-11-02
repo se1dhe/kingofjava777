@@ -1,0 +1,53 @@
+{
+  "nav": {
+    "home": "Главная",
+    "videos": "Видео",
+    "about": "О стримере",
+    "social": "Соцсети",
+    "live": "СТРИМ"
+  },
+  "hero": {
+    "live_now": "СМОТРЕТЬ СТРИМ",
+    "offline": "Стрим скоро начнётся",
+    "subscribe": "Подписаться",
+    "viewers": "зрителей"
+  },
+  "about": {
+    "title": "О KINGOFJAVA777",
+    "subtitle": "Легенда Lineage 2",
+    "description": "Степан — стример Lineage 2 из Армении. PvP, олимпиады, рейд-боссы и лучший контент для сообщества. Присоединяйся к 142K+ фанатов!",
+    "stats": {
+      "youtube": "YouTube подписчиков",
+      "telegram": "Telegram канал",
+      "tiktok": "TikTok фолловеров",
+      "total": "Всего фолловеров"
+    }
+  },
+  "videos": {
+    "title": "Последние видео",
+    "youtube": "YouTube",
+    "tiktok": "TikTok",
+    "watch_all": "Смотреть все",
+    "view_count": "просмотров"
+  },
+  "social": {
+    "title": "Присоединяйся",
+    "subtitle": "Следи за стримами и новостями",
+    "youtube": "YouTube канал",
+    "telegram": "Telegram",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "kick": "Kick стримы",
+    "vk": "ВКонтакте"
+  },
+  "footer": {
+    "copyright": "© 2024 KINGOFJAVA777. Все права защищены.",
+    "made_with": "Сделано с",
+    "for_community": "для сообщества"
+  },
+  "ui": {
+    "language": "Язык",
+    "loading": "Загрузка...",
+    "error": "Ошибка загрузки"
+  }
+}
