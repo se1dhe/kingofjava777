@@ -212,7 +212,7 @@
     const DEFAULT_LANG     = 'ru';
     const FALLBACK_LANG    = 'en';
     const STORAGE_KEY      = 'kingofjava777_lang';
-    const LOCALES_BASE_URL = '/locales/';
+    const LOCALES_BASE_URL = 'locales/';
 
     let currentLang = DEFAULT_LANG;
     let translations = {}; // { ru: {...}, en: {...}, am: {...} }
